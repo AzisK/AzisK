@@ -1,4 +1,4 @@
-## Data engineer building open-source software for community
+## Soft and data engineer with a passion for open-source
 
 <a href="https://github.com/AzisK">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=azisk&show_icons=true&count_private=true&hide=contribs,issues&hide_title=true" />
