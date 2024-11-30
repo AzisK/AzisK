@@ -2,7 +2,7 @@
 
 ---
 
-At the moment I presenting __Friendly Python Classes__ as part of [PyCon Wroclaw 2024](https://www.pyconwroclaw.com/)!
+At the moment I am presenting __Friendly Python Classes__ as part of [PyCon Wroclaw 2024](https://www.pyconwroclaw.com/)!
 
 Here you can find the Google Colab [Notebook](https://colab.research.google.com/drive/1SlyMfzrsyf1sVwk6pf7cZEx0MIkOieIK?usp=sharing) of the talk (make a copy to have full control of it)
 
