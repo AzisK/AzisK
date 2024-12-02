@@ -11,3 +11,5 @@ Here you can find the Google Colab [Notebook](https://colab.research.google.com/
 ---
 
 You are welcome to read my blog in Lithuanian https://www.aziogas.lt/
+
+![Image of the main page of my blog](https://github.com/user-attachments/assets/3af34727-6d76-443d-be85-ac462d6f46d8)
