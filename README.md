@@ -8,6 +8,10 @@ I presented _Friendly Python Classes_ as part of [PyCon Wroclaw 2024](https://ww
 
 Here you can find the Google Colab [Notebook](https://colab.research.google.com/drive/1SlyMfzrsyf1sVwk6pf7cZEx0MIkOieIK?usp=sharing) of the talk (make a copy to have full control of it)
 
+#### PyCon Lithuania 2025
+
+_To be continued_
+
 ---
 
 You are welcome to read my blog in Lithuanian https://www.aziogas.lt/
