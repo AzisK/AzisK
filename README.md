@@ -4,13 +4,15 @@
 
 #### PyCon Wroclaw 2024
 
-I presented _Friendly Python Classes_ as part of [PyCon Wroclaw 2024](https://www.pyconwroclaw.com/)!
+I presented _Friendly Python Classes_ as part of [PyCon Wroclaw 2024](https://www.pyconwroclaw.com/)
 
 Here you can find the Google Colab [Notebook](https://colab.research.google.com/drive/1SlyMfzrsyf1sVwk6pf7cZEx0MIkOieIK?usp=sharing) of the talk (make a copy to have full control of it)
 
 #### PyCon Lithuania 2025
 
-_To be continued_
+I presented _How I tracked my stocks with Python_ as part of [Pycon Lithuania 2025](https://pycon.lt/)
+
+Here you can find the [slides](https://docs.google.com/presentation/d/1OAbJZ9uXicFvUHw_1SH2beNJqrYlQXVy/edit?usp=sharing&ouid=108963655942213097426&rtpof=true&sd=true)
 
 ---
 
