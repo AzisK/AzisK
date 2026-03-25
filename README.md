@@ -17,6 +17,6 @@ I presented _How I tracked my stocks with Python_ as part of [Pycon Lithuania 20
 
 ---
 
-I ocassionally write a blog and enrich it with literary excerpts (mostly in Lithunian but I started to wrinte in English where it makes sense as well) https://www.aziogas.lt/
+I ocassionally write a blog and enrich it with literary excerpts (mostly in Lithunian but I started to write in English where it makes sense as well) https://www.aziogas.lt/
 
 ![Image of the main page of my blog](https://github.com/user-attachments/assets/3af34727-6d76-443d-be85-ac462d6f46d8)
