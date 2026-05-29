@@ -9,7 +9,7 @@
 
 - Streamline Python Package Release with uv, paws and trivia | PyCon Lithuania 2026
 
-- Local Python Config | Python Lithuania 2026 [[Slides](https://docs.google.com/presentation/d/155KfNWNOA-dw9bOf4UfCmqApmXOEIz_oVzgAYjZTWuw/edit?usp=sharing)]
+- Local Python Config | Python Lithuania 2026 [[Slides](https://docs.google.com/presentation/d/155KfNWNOA-dw9bOf4UfCmqApmXOEIz_oVzgAYjZTWuw/edit?usp=sharing)] [[Repo](https://github.com/AzisK/Pynfig)]
 
 ---
 
