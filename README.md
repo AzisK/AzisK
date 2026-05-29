@@ -1,19 +1,15 @@
 ## Engineer with a passion for open-source
 
-### Conferences
+### Presentations
 
-#### PyCon Wroclaw 2024
+- Friendly Python Classes | PyCon Wroclaw 2024 [[Slides](https://docs.google.com/presentation/d/1gLCDaHmSeof9TDgc1_0MvCU-EjN0n1np/edit?usp=sharing&ouid=108963655942213097426&rtpof=true&sd=true)] [Google Colab [Notebook](https://colab.research.google.com/drive/1SlyMfzrsyf1sVwk6pf7cZEx0MIkOieIK?usp=sharing)]
 
-I presented _Friendly Python Classes_ as part of PyCon Wroclaw 2024
-- [Slides](https://docs.google.com/presentation/d/1gLCDaHmSeof9TDgc1_0MvCU-EjN0n1np/edit?usp=sharing&ouid=108963655942213097426&rtpof=true&sd=true)
-- Google Colab [Notebook](https://colab.research.google.com/drive/1SlyMfzrsyf1sVwk6pf7cZEx0MIkOieIK?usp=sharing) (make a copy to have full control of it)
+- How I tracked my stocks with Python | PyCon Lithuania 2025 [[Talk](https://youtu.be/O-A3LOF4Wys?si=C0ZC_24HH4_C7dHC)] [[Slides](https://docs.google.com/presentation/d/1OAbJZ9uXicFvUHw_1SH2beNJqrYlQXVy/edit?usp=sharing&ouid=108963655942213097426&rtpof=true&sd=true)]
 
-#### PyCon Lithuania 2025
 
-I presented _How I tracked my stocks with Python_ as part of [Pycon Lithuania 2025](https://pycon.lt/)
+- Streamline Python Package Release with uv, paws and trivia | PyCon Lithuania 2026
 
-- [Talk](https://youtu.be/O-A3LOF4Wys?si=C0ZC_24HH4_C7dHC)
-- [Slides](https://docs.google.com/presentation/d/1OAbJZ9uXicFvUHw_1SH2beNJqrYlQXVy/edit?usp=sharing&ouid=108963655942213097426&rtpof=true&sd=true)
+- Local Python Config | Python Lithuania 2026 [[Slides](https://docs.google.com/presentation/d/155KfNWNOA-dw9bOf4UfCmqApmXOEIz_oVzgAYjZTWuw/edit?usp=sharing)]
 
 ---
 
