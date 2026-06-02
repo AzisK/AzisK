@@ -7,7 +7,7 @@
 - How I tracked my stocks with Python | PyCon Lithuania 2025 [[Talk](https://youtu.be/O-A3LOF4Wys?si=C0ZC_24HH4_C7dHC)] [[Slides](https://docs.google.com/presentation/d/1OAbJZ9uXicFvUHw_1SH2beNJqrYlQXVy/edit?usp=sharing&ouid=108963655942213097426&rtpof=true&sd=true)]
 
 
-- Streamline Python Package Release with uv, paws and trivia | PyCon Lithuania 2026
+- Streamline Python Package Release with uv, paws and trivia | PyCon Lithuania 2026 [[Slides](https://canva.link/naxc4ljgzl7cznp)]
 
 - Local Python Config | Python Lithuania 2026 [[Slides](https://docs.google.com/presentation/d/155KfNWNOA-dw9bOf4UfCmqApmXOEIz_oVzgAYjZTWuw/edit?usp=sharing)] [[Repo](https://github.com/AzisK/Pynfig)]
 
