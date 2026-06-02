@@ -9,7 +9,7 @@
 
 - Streamline Python Package Release with uv, paws and trivia | PyCon Lithuania 2026 [[Slides](https://canva.link/naxc4ljgzl7cznp)]
 
-- Local Python Config | Python Lithuania 2026 [[Slides](https://docs.google.com/presentation/d/155KfNWNOA-dw9bOf4UfCmqApmXOEIz_oVzgAYjZTWuw/edit?usp=sharing)] [[Repo](https://github.com/AzisK/Pynfig)]
+- Local Python Config (lightning talk) | Python Lithuania 2026 [[Slides](https://docs.google.com/presentation/d/155KfNWNOA-dw9bOf4UfCmqApmXOEIz_oVzgAYjZTWuw/edit?usp=sharing)] [[Repo](https://github.com/AzisK/Pynfig)]
 
 ---
 
